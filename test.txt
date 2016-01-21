@@ -1,0 +1,12 @@
+-교원
+김교수 17395309 수학과 정교수 profkim@postech.ac.kr
+이교수 12349819 물리학과 정교수 proflee@postech.ac.kr
+박교수 12395732 화학과 부교수 profpark@postech.ac.kr
+-직원
+김직원 98345939 대학본부 정직원 staffkim@postech.ac.kr
+이직원 98537423 구매관재팀 정직원 stafflee@postech.ac.kr
+박직원 91203948 총무안전팀 계약직 staffpark@postech.ac.kr
+-학생
+김학생 20130647 수학과 학부생 stdkim@postech.ac.kr
+이학생 20129384 물리학과 대학원생 stdlee@postech.ac.kr
+박학생 20123943 화학과 학부생 stdpark@postech.ac.kr
